@@ -14,7 +14,6 @@ This project replicates Spotify's user interface and basic music player function
 ## 🛠 Tech Stack
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
 
 ## 📂 Project Structure
 spotify-frontend-clone/
